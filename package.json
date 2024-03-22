@@ -1,0 +1,17 @@
+{
+  "name": "javaxiaobear-graduation",
+  "version": "1.0.0",
+  "description": "javaxiaobear-graduation",
+  "repository": "git@github.com:recoluan/vuepress-theme-reco-demo.git",
+  "author": "javaxiaobear",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-theme-reco": "2.0.0-rc.5"
+  }
+}
